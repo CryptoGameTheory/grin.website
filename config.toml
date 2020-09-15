@@ -59,7 +59,7 @@ disableHugoGeneratorInject = false
   keywords = ""
   images = [""]
 
-  homeSubtitle = "Economic research about the nature of Grin"
+  homeSubtitle = "Have you ever wondered on what is money?"
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   #
@@ -125,32 +125,32 @@ disableHugoGeneratorInject = false
   # Social icons
   [[params.social]]
     name = "twitter"
-    url  = "https://twitter.com/"
+    url  = "https://twitter.com/CryptoGameT"
 
   [[params.social]]
     name = "email"
-    url  = "mailto:nobody@example.com"
+    url  = "cryptogametheory@protonmail.com"
 
   [[params.social]]
     name = "github"
-    url  = "https://github.com/"
+    url  = "https://github.com/CryptoGameTheory"
 
  # [[params.social]]
  #  name = "linkedin"
   #  url  = "https://www.linkedin.com/"
 
-  [[params.social]]
-    name = "stackoverflow"
-    url  = "https://www.stackoverflow.com/"
+ # [[params.social]]
+  #  name = "stackoverflow"
+  #  url  = "https://www.stackoverflow.com/"
 
 [languages]
   [languages.en]
-    subtitle  = "Hello Friend NG Theme"
+    subtitle  = "Hello Friend"
     weight    = 1
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
   [languages.fr]
-    subtitle  = "Hello Friend NG Theme"
+    subtitle  = "Hello Friend"
     weight    = 2
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
@@ -167,9 +167,9 @@ disableHugoGeneratorInject = false
     
     
   [[menu.main]]
-    identifier = "stats"
-    name       = "Stats"
-    url        = "stats/"
+    identifier = "posts"
+    name       = "Posts"
+    url        = "posts/"
     
   [[menu.main]]
     identifier = "docs"
