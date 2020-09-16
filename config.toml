@@ -118,7 +118,7 @@ disableHugoGeneratorInject = false
   # Uncomment this if you want a portrait on your start page
   #
   [params.portrait]
-     path     = "grin2.png"
+     path     = "grin-logo-eyes.svg"
      alt      = "grin"
      maxWidth = "200px"
 

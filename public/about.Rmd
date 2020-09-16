@@ -69,7 +69,7 @@ If you prefer not to donate or you don't have the means, don't worry. **We do wh
 
 All the parts of this site are **open source** and you can find them on [Github](https://github.com/CryptoGameTheory) under the [CC License](https://creativecommons.org/licenses/by-nc/4.0/). 
 
-To [build the site](https://bookdown.org/yihui/blogdown/), I've used Hugo, a framework for building fast websites, and the RStudio IDE, a platform to perform statistical analysis. The content is, therefore, written in Rmakdown (.Rmd) to allow interactive [widgets](http://www.htmlwidgets.org/) and the R code to run.  
+To [build the site](https://bookdown.org/yihui/blogdown/), I've used Hugo, a framework for building fast websites (I left the defualt tutorials in the posts section), and the RStudio IDE, a platform to perform statistical analysis. The content is, therefore, written in Rmakdown (.Rmd) to allow interactive [widgets](http://www.htmlwidgets.org/) and the R code to run.  
 
 This also makes the content suitable for reproduction. As I've said before, some information cannot be someone's property, then, I encourage you to fork the site, change it, propose translations, or do whatever you want to spread the word. If you are new, just try and learn.
 
@@ -84,9 +84,9 @@ The content is structured in this way:
 - **Howtos:** here you can find how to *"make your hands dirty"*. You would feel like an hacker!
 - **Posts:** here you can find information about the growth of the community and other thoughts. I would make periodic reports and post them analyzing the progress.
 
+
 ```{r}
 print("cypher punk write code")
 ```
-
 
 

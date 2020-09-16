@@ -4,7 +4,6 @@
   
   <url>
     <loc>/fr/categories/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -18,38 +17,7 @@
   </url>
   
   <url>
-    <loc>/fr/grinomics/creation-dun-nouveau-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/grinomics/creating-a-new-theme/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/grinomics/creation-dun-nouveau-theme/"
-                />
-  </url>
-  
-  <url>
-    <loc>/fr/grinomics/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/grinomics/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/grinomics/"
-                />
-  </url>
-  
-  <url>
     <loc>/fr/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -59,66 +27,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="/fr/"
-                />
-  </url>
-  
-  <url>
-    <loc>/fr/categories/hugo/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/fr/grinomics/debuter-avec-hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/grinomics/hugoisforlovers/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/grinomics/debuter-avec-hugo/"
-                />
-  </url>
-  
-  <url>
-    <loc>/fr/categories/go/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/fr/grinomics/introduction-aux-modeles-hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/grinomics/goisforlovers/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/grinomics/introduction-aux-modeles-hugo/"
-                />
-  </url>
-  
-  <url>
-    <loc>/fr/categories/jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/fr/grinomics/migrer-vers-hugo-depuis-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/grinomics/migrate-from-jekyll/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/grinomics/migrer-vers-hugo-depuis-jekyll/"
                 />
   </url>
   
