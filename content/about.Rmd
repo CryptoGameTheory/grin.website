@@ -18,7 +18,7 @@ However, nobody really cares on how money works and people generally thinks abou
 
 During my studies, nevertheless, I discovered Bitcoin and cryptocurrencies and I started to compare them with the traditional economies. This made me rediscover how the economy works. Some steps were for me enlightnening to understand money and the economics' matter, therefore I've deepened my research. 
 
-After a while, another cryptocurrency caught my attention, **Grin**, which I liked since the beginning. I share most of the principles that grin proposes and for that reason I've decided to work as a contributor for the community.
+After a while, another cryptocurrency caught my attention, [**Grin**](https://grin.mw/), which I liked since the beginning. I share most of the principles that grin proposes and for that reason I've decided to work as a contributor for the community. You can understand the reasons while reading.
 
 In this blog you will find **open-source** information about economics, data science and Grin, organized in such a way to be as much comprehensible as possible.
 
@@ -46,7 +46,7 @@ Try how grin works. (coming soon)
 
 bc1qy0lhz4u42nxfauq060vwdqnp90rj0v7rd3tvyc
 
-![Segwit wallet](/./about_files/57040ada-4dce-4cfd-bfeb-22ae511c9212.jpeg){width=150px height=150px}
+![Segwit wallet.](/./about_files/e39d5a63-7e29-4c00-9cd4-39dab8b37579.jpg){width=150px height=150px}
 
 #### Bitcoin Layer II
 
@@ -79,7 +79,7 @@ This is also a way to keep me fit and to exercise my computer skills. Writing do
 
 The content is structured in this way:
 
-- **Docs:** here you can find the resources where I get information and insipiration. A sort of bibliography.
+- **Docs:** here you can find the resources where I get information and insipiration. A sort of bibliography of readings that changed my point of view.
 - **Grinomics:** here you can  start to see how deep is the rabbit hole. You can also find the economic principles that surround grin, cryptocurrencies and economics.
 - **Howtos:** here you can find how to *"make your hands dirty"*. You would feel like an hacker!
 - **Posts:** here you can find information about the growth of the community and other thoughts. I would make periodic reports and post them analyzing the progress.

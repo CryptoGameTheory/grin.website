@@ -1,0 +1,55 @@
+---
+title: Introduction to Grin & Mimblewimble
+author: CryptoGameTheory
+date: '2020-09-16'
+slug: introduction-to-grin-mimblewimble
+categories:
+  - Grin
+  - Money
+tags:
+  - Introduction
+comments: no
+images: ~
+---
+
+- 19 july 2016 Tom Elvis Jedusor released in the mailing list a file containing a new cryptographic feature useful for the blockchain. Omomorphic crypyography 
+
+- Three months lates Andrew Polestra built the white paper.
+
+- It forms the first organization: Andrew which is gone, Ignotus peverell, the core team and the community
+
+- The 15 of january, two years later, the first implementation of Mimblewimble is released, it's called Grin.
+
+- Initially grin was to be a side chain, however, due to the incompatibility with scripts of Bitcoin it launched a new blockchain.
+
+- Grin was launched in the most fair way possible. No premine, no ico, community based, different type of monetary policy with respect to Bitcoin.
+
+- Grin has no amounts and no addresses. It's blockchain is based on kernels nodes transactions and prof of work. 
+
+- The cryptographic primitives to understand Grin are the elliptic curves, the pedersen commitments and the coinjoin.
+
+- The proof of work in necessary for money because it requires some energy to be spent.
+
+- Grin has an advantage in the blockchain trilemma because is ligthweight and more private at the protocol level. It allows to have less decentralization.
+
+- The economics of grin are different to give everyone the opportunity to participate.
+
+- It has a simpler convention of 1 grin/s which is easier to understand and gives more stability.
+
+- It's still in the early stage and needs a good infrastructure to be built.
+
+- Grin has a faster sync on the new peers 
+
+- The two properties verified in a Mimblewimble transaction are: no new nodes created and the parties sending money must prove ownership of their keys.
+
+- Grin is similar to donations in non profit organizations, where only the two parts know the amount exchanged.
+
+- The Grin protocol is written in rust which is more secure.
+
+- The Grin blockchain is designed to grow with the number of users rather than the amount of transactions.
+
+- Grin is what Bitcoiners wanted since the beginning. An enormous mixer which keep transactions private. 
+
+- There is no public ledger in Grin.
+
+- Initially grin was to be a side chain, however, due to the incompatibility with scripts of Bitcoin it launched a new blockchain.

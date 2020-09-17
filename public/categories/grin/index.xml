@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grin on Hello Friend</title>
+    <link>/categories/grin/</link>
+    <description>Recent content in Grin on Hello Friend</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Wed, 16 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/grin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introduction to Grin &amp; Mimblewimble</title>
+      <link>/grin/introduction-to-grin-mimblewimble/</link>
+      <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/grin/introduction-to-grin-mimblewimble/</guid>
+      <description>19 july 2016 Tom Elvis Jedusor released in the mailing list a file containing a new cryptographic feature useful for the blockchain. Omomorphic crypyography
+ Three months lates Andrew Polestra built the white paper.
+ It forms the first organization: Andrew which is gone, Ignotus peverell, the core team and the community
+ The 15 of january, two years later, the first implementation of Mimblewimble is released, it’s called Grin.</description>
+    </item>
+    
+  </channel>
+</rss>
